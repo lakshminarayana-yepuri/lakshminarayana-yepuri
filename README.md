@@ -16,10 +16,6 @@ I’m a **Software Engineer** passionate about solving real-world problems with 
 **Cloud & Tools:** AWS (CCP), Azure (AZ-900), Terraform, Docker, Git, IntelliJ, VS Code  
 **APIs:** REST, GraphQL, Ethos Integration, Pub/Sub, BPAPI  
 
-## 🎯 Goals  
-- Design **cloud-native, event-driven architectures** for real-time systems.  
-- Contribute to **IoT, higher-education tech, and open-source projects**.  
-- Explore **AI/ML applications** for safety, automation, and sustainability.  
 
 ## 📫 Connect with Me  
 - 📧 [lakshminarayanayepuri123@gmail.com](mailto:lakshminarayanayepuri123@gmail.com)  
